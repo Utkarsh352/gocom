@@ -22,3 +22,5 @@ To run the tests:
 ```bash
 make test
 ```
+
+I would love your contributions in this project
